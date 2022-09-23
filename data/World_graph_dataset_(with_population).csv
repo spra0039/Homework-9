@@ -18,8 +18,8 @@ Belgium,521,11655930
 Belize,118,405272
 Bermuda,0,64184
 Bhutan,128,782455
-Bolivia (Plurinational State of),137,12224110
-Bosnia and Herzegovina,0,3233526
+Bolivia,137,12224110
+Bosnia and Herz.,0,3233526
 Brazil,2884,215313498
 British Virgin Islands,0,31305
 Bulgaria,96,6781953
@@ -28,7 +28,7 @@ Cambodia,15,16767842
 Cameroon,32,27914536
 Canada,15398,38454327
 Cayman Islands,0,68706
-Central African Republic,35,5579144
+Central African Rep.,35,5579144
 Chad,1,17723315
 Chile,5323,19603733
 China,48553,1425887337
@@ -39,11 +39,11 @@ Côte d'Ivoire,103,27825268
 Croatia,2037,4030358
 Cuba,0,11212191
 Czechia,567,10493986
-Democratic People's Republic of Korea,0,26069416
-Democratic Republic of the Congo,25,99010212
+North Korea,0,26069416
+Dem. Rep. Congo,25,99010212
 Denmark,16157,5882261
 Dominica,0,72737
-Dominican Republic,33,11228821
+Dominican Rep.,33,11228821
 Ecuador,145,18001000
 Egypt,788,110990103
 El Salvador,113,6336392
@@ -68,7 +68,7 @@ Hungary,781,9967308
 Iceland,703,372899
 India,657,1417173173
 Indonesia,9,275501339
-Iran (Islamic Republic of),2071,88550570
+Iran,2071,88550570
 Iraq,5,44496122
 Ireland,371,5023109
 Israel,355,9038309
@@ -79,7 +79,7 @@ Jordan,89,11285869
 Kazakhstan,32,19397998
 Kenya,309,54027487
 Kyrgyzstan,2,6630623
-Lao People's Democratic Republic,175,7529475
+Laos,175,7529475
 Latvia,141,1850651
 Lebanon,17,5489739
 Lithuania,114,2750055
@@ -112,10 +112,10 @@ Philippines,76,115559009
 Poland,407,39857145
 Portugal,8731,10270865
 Qatar,2110,2695122
-Republic of Korea,38,51815810
-Republic of Moldova,210,3272996
+South Korea,38,51815810
+Moldova,210,3272996
 Romania,1039,19659267
-Russian Federation,2572,144713314
+Russia,2572,144713314
 Saint Kitts and Nevis,0,47657
 Saint Lucia,0,179857
 Saint Vincent and the Grenadines,0,103948
@@ -127,30 +127,31 @@ Singapore,261,5975689
 Slovakia,45,5643453
 Slovenia,1125,2119844
 South Africa,786,59893885
-South Sudan,8,10913164
+S. Sudan,8,10913164
 Spain,8435,47558630
 Sri Lanka,74,21832143
 Suriname,4,618040
 Sweden,5349,10549347
 Switzerland,11776,8740472
-Syrian Arab Republic,13,22125249
+Syria,13,22125249
 Tajikistan,2,9952787
 Thailand,204,71697030
 Timor-Leste,202,1341296
 Togo,138,8848699
 Trinidad and Tobago,0,1531044
 Tunisia,118,12356117
-Türkiye,173,85341241
+Turkey,173,85341241
 Turks and Caicos Islands,0,45703
 Uganda,357,47249585
 Ukraine,71,39701739
 United Arab Emirates,146,9441129
-United Kingdom of Great Britain and Northern Ireland,9679,67508936
-United Republic of Tanzania,278,65497748
+United Kingdom,9679,67508936
+Tanzania,278,65497748
 United States of America,122497,338289857
 Uruguay,160,3422794
 Uzbekistan,1,34627652
-Venezuela (Bolivarian Republic of),14,28301696
-Viet Nam,0,98186856
+Venezuela,14,28301696
+Vietnam,0,98186856
 Zambia,215,20017675
 Zimbabwe,45,16320537
+Kosovo,25,1769710
